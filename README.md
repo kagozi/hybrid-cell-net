@@ -1,8 +1,4 @@
 # HybridCellNet: Merging Classical Vision Features and Deep Learning for Interpretable Blood Cell Analysis
-
-> **CSC 752 — Computer Vision** · University of South Dakota · April 2026  
-> Alex Kagozi · Daniel Jing · Linus Kanyingi · Neelam Karki · Nishant Joshi
-
 ---
 
 ## Overview
@@ -129,7 +125,7 @@ All outputs are saved to `/kaggle/working/HybridCellNet/`.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/hybridcellnet.git
+git https://github.com/kagozi/hybrid-cell-net.git
 cd hybridcellnet
 ```
 
@@ -233,25 +229,6 @@ See `requirements.txt`. Core dependencies:
 - scikit-learn
 - OpenCV
 - matplotlib / seaborn
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-```
-@misc{hybridcellnet2026,
-  title   = {HybridCellNet: Merging Classical Vision Features and Deep
-             Learning for Interpretable Blood Cell Analysis},
-  author  = {Kagozi, Alex and Jing, Daniel and Kanyingi, Linus and
-             Karki, Neelam and Joshi, Nishant},
-  year    = {2026},
-  school  = {University of South Dakota},
-  note    = {CSC 752 Computer Vision Course Project}
-}
-```
-
 ---
 
 ## License
